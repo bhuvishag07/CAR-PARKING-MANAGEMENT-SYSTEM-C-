@@ -1,0 +1,20 @@
+Parked -> Vehicle: 671 | Slot: 1 | Hours: 3 | Entry Time: 1772479948
+Parked -> Vehicle: 201 | Slot: 2 | Hours: 2 | Entry Time: 1772479953
+Removed -> Vehicle: 201 | Slot: 2 | Fee: ₹160 | Entry Time: 1772479953 | Exit Time: 1772479961
+Parked -> Vehicle: 189 | Slot: 2 | Hours: 4 | Entry Time: 1772479973
+Parked -> Vehicle: 3801 | Slot: 3 | Hours: 3 | Entry Time: 1772479978
+Parked -> Vehicle: 301 | Slot: 4 | Hours: 3 | Entry Time: 1772479981
+Parked -> Vehicle: 8291 | Slot: 1 | Hours: 2 | Entry Time: 1773158972
+Parked -> Vehicle: 1191 | Slot: 2 | Hours: 3 | Entry Time: 1773158994
+Parked -> Vehicle: 792 | Slot: 3 | Hours: 5 | Entry Time: 1773158999
+Removed -> Vehicle: 8291 | Slot: 1 | Fee: ₹160 | Entry Time: 1773158972 | Exit Time: 1773159018
+Parked -> Vehicle: 3892 | Slot: 1 | Hours: 3 | Entry Time: 1773159042
+Parked -> Vehicle: 3289 | Slot: 4 | Hours: 1 | Entry Time: 1773159046
+Parked -> Vehicle: 29 | Slot: 5 | Hours: 5 | Entry Time: 1773159050
+Parked -> Vehicle: 392 | Slot: 6 | Hours: 3 | Entry Time: 1773159054
+Parked -> Vehicle: 201 | Slot: 1 | Hours: 3 | Entry Time: 1773159109
+Parked -> Vehicle: 3911 | Slot: 2 | Hours: 2 | Entry Time: 1773159114
+Parked -> Vehicle: 389 | Slot: 3 | Hours: 5 | Entry Time: 1773159119
+Parked -> Vehicle: 320 | Slot: 4 | Hours: 5 | Entry Time: 1773159123
+Parked -> Vehicle: 320 | Slot: 5 | Hours: 3 | Entry Time: 1773159126
+Parked -> Vehicle: 313 | Slot: 6 | Hours: 1 | Entry Time: 1773159131
