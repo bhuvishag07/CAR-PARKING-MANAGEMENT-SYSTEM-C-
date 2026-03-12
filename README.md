@@ -111,6 +111,11 @@ Parking Fee = Hours Parked × ₹80
 
 📂 Project Structure
 
+<img width="1430" height="596" alt="image" src="https://github.com/user-attachments/assets/5bd5f4d4-9e32-43c4-9a31-a69aa2ed935a" />
+
+
+
+
 ▶️ How to Run the Program
 
 1️⃣ Download or clone the repository
